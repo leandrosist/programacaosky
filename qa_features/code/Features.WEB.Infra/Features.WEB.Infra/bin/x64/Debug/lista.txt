@@ -1,0 +1,17 @@
+Features.WEB.Infra.Login.ValidarLoginFeature.SINACOR_0001_AcessarSinacorComCredenciaisValidasEEmpresaValida
+Features.WEB.Infra.Login.ValidarLoginFeature.SINACOR_0002_AcessarSinacorComCredenciaisInvalidas
+Features.WEB.Infra.Login.ValidarLoginFeature.Sinacor_0003_AcessarSinacorComUsuarioVazio
+Features.WEB.Infra.Login.ValidarLoginFeature.Sinacor_0004_AcessarSinacorComSenhaVazia
+Features.WEB.Infra.Login.ValidarLoginFeature.Sinacor_0005_AcessarSinacorComUsuarioESenhaVazia
+Features.WEB.Infra.Notificacoes.ValidarTelaDeNotificacoesFeature.SINACOR_15572_ValidarQueEstaSendoPermitidoSelecionarNotificacoes
+Features.WEB.Infra.Notificacoes.ValidarTelaDeNotificacoesFeature.SINACOR_15580_RealizarAExportacaoDeNotificacoes
+Features.WEB.Infra.Notificacoes.ValidarTelaDeNotificacoesFeature.SINACOR_XXXX_MarcarNotificacaoComoLida
+Features.WEB.Infra.Pendencias.ValidarTelaDePendenciasFeature.SINACOR_6081_ConsultarTop5DePendencias
+Features.WEB.Infra.Pendencias.ValidarTelaDePendenciasFeature.SINACOR_6145_ConsultarPendencias
+Features.WEB.Infra.Pendencias.ValidarTelaDePendenciasFeature.SINACOR_6623_ConsultarTotalDePendencias
+Features.WEB.Infra.Pendencias.ValidarTelaDePendenciasFeature.SINACOR_6720_ExibirNomeDaEmpresaNoBreadcrumb
+Features.WEB.Infra.Pendencias.ValidarTelaDePendenciasFeature.SINACOR_XXXX_ConfirmarAResolucaoDaPendencia
+Features.WEB.Infra.Pendencias.ValidarTelaDePendenciasFeature.SINACOR_XXXX_NaoConfirmarAResolucaoDaPendencia
+Features.WEB.Infra.Preferencias.ValidarPreferenciasDeGridFeature.SINACOR_28038_ValidarAVisualizacaoDasColunasEOrdenacaoNoGrid("s","n","s","s","n","n","n","1","","3","2","","","",null)
+Features.WEB.Infra.Preferencias.ValidarPreferenciasDeGridFeature.SINACOR_28050_ValidarAVisualizacaoDoGridComPaginacao("s","n","s","s","n","n","n","1","","3","2","","","","20","2","20641542","Página 2 de 3 (50 itens)",null)
+Features.WEB.Infra.Preferencias.ValidarPreferenciasDeGridFeature.SINACOR_28118_ValidarAVisualizacaoDasColunasEOrdenacaoNoGrdiComPreferenciasDeUsuariosDiferentes("s","n","s","s","n","n","n","1","","3","2","","","",null)

@@ -1,0 +1,619 @@
+2020-06-30 11:07:06.758 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:07:06.785 - [Specflow]  Using app.config
+2020-06-30 11:07:07.138 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:07:07.176 - [SeleniumUtils]   CHROME
+2020-06-30 11:07:07.176 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:07:07.176 - [SeleniumUtils]  OK
+2020-06-30 11:07:07.213 - [VARDB]  Initializing database...
+2020-06-30 11:07:07.217 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:07:07.221 - [VARDB]     persistDays ==== 7
+2020-06-30 11:07:07.696 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:07:07.700 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:07:07.742 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:07:07.800 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:07:26.766 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 11:07:26.766 - [BeforeScenario]  OK!
+2020-06-30 11:07:26.777 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 11:07:29.154 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 11:07:32.610 - [SeleniumBase]  Página carregada!
+2020-06-30 11:07:43.278 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 11:07:43.825 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 11:07:43.825 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 11:07:50.166 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 11:14:58.895 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:14:58.925 - [Specflow]  Using app.config
+2020-06-30 11:14:59.177 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:14:59.201 - [SeleniumUtils]   CHROME
+2020-06-30 11:14:59.651 - [SeleniumUtils]  Finalizando processo [22028] pai...
+2020-06-30 11:14:59.655 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:14:59.655 - [SeleniumUtils]  OK
+2020-06-30 11:14:59.674 - [VARDB]  Initializing database...
+2020-06-30 11:14:59.677 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:14:59.679 - [VARDB]     persistDays ==== 7
+2020-06-30 11:15:00.060 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:15:00.070 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:15:00.121 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:15:00.167 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:15:04.558 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 11:15:04.558 - [BeforeScenario]  OK!
+2020-06-30 11:15:04.565 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 11:15:06.863 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 11:15:10.472 - [SeleniumBase]  Página carregada!
+2020-06-30 11:15:20.690 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 11:15:21.001 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 11:15:21.001 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 11:15:26.369 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 11:32:43.152 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:32:43.182 - [Specflow]  Using app.config
+2020-06-30 11:32:43.395 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:32:43.433 - [SeleniumUtils]   CHROME
+2020-06-30 11:32:43.813 - [SeleniumUtils]  Finalizando processo [21248] pai...
+2020-06-30 11:32:43.816 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:32:43.816 - [SeleniumUtils]  OK
+2020-06-30 11:32:43.840 - [VARDB]  Initializing database...
+2020-06-30 11:32:43.843 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:32:43.846 - [VARDB]     persistDays ==== 7
+2020-06-30 11:32:44.163 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:32:44.166 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:32:44.204 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:32:44.222 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:32:48.842 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 11:32:48.843 - [BeforeScenario]  OK!
+2020-06-30 11:32:48.851 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 11:32:51.208 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 11:32:54.380 - [SeleniumBase]  Página carregada!
+2020-06-30 11:33:04.594 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 11:33:04.933 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 11:33:04.933 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 11:33:10.773 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 11:37:11.906 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:37:11.933 - [Specflow]  Using app.config
+2020-06-30 11:37:12.189 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:37:12.215 - [SeleniumUtils]   CHROME
+2020-06-30 11:37:12.619 - [SeleniumUtils]  Finalizando processo [17524] pai...
+2020-06-30 11:37:12.623 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:37:12.623 - [SeleniumUtils]  OK
+2020-06-30 11:37:12.652 - [VARDB]  Initializing database...
+2020-06-30 11:37:12.655 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:37:12.660 - [VARDB]     persistDays ==== 7
+2020-06-30 11:37:12.969 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:37:12.973 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:37:13.012 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:37:13.048 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:38:01.878 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:38:01.902 - [Specflow]  Using app.config
+2020-06-30 11:38:02.137 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:38:02.166 - [SeleniumUtils]   CHROME
+2020-06-30 11:38:02.533 - [SeleniumUtils]  Finalizando processo [17036] pai...
+2020-06-30 11:38:02.537 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:38:02.537 - [SeleniumUtils]  OK
+2020-06-30 11:38:02.562 - [VARDB]  Initializing database...
+2020-06-30 11:38:02.565 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:38:02.568 - [VARDB]     persistDays ==== 7
+2020-06-30 11:38:02.887 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:38:02.890 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:38:02.929 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:38:02.962 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:38:53.429 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:38:53.451 - [Specflow]  Using app.config
+2020-06-30 11:38:53.659 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:38:53.684 - [SeleniumUtils]   CHROME
+2020-06-30 11:38:54.064 - [SeleniumUtils]  Finalizando processo [10608] pai...
+2020-06-30 11:38:54.068 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:38:54.068 - [SeleniumUtils]  OK
+2020-06-30 11:38:54.085 - [VARDB]  Initializing database...
+2020-06-30 11:38:54.088 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:38:54.091 - [VARDB]     persistDays ==== 7
+2020-06-30 11:38:54.397 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:38:54.403 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:38:54.467 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:38:54.487 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:38:58.650 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 11:38:58.650 - [BeforeScenario]  OK!
+2020-06-30 11:38:58.657 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 11:39:00.938 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 11:39:04.162 - [SeleniumBase]  Página carregada!
+2020-06-30 11:39:14.339 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 11:39:14.657 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 11:39:14.657 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 11:39:18.997 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 11:42:24.313 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:42:24.338 - [Specflow]  Using app.config
+2020-06-30 11:42:24.547 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:42:24.576 - [SeleniumUtils]   CHROME
+2020-06-30 11:42:24.953 - [SeleniumUtils]  Finalizando processo [22332] pai...
+2020-06-30 11:42:24.957 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:42:24.957 - [SeleniumUtils]  OK
+2020-06-30 11:42:24.978 - [VARDB]  Initializing database...
+2020-06-30 11:42:24.984 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:42:24.987 - [VARDB]     persistDays ==== 7
+2020-06-30 11:42:25.289 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:42:25.292 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:42:25.339 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:42:25.356 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:42:30.403 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 11:42:30.403 - [BeforeScenario]  OK!
+2020-06-30 11:42:30.410 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 11:42:32.689 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 11:42:35.559 - [SeleniumBase]  Página carregada!
+2020-06-30 11:42:45.619 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 11:42:45.908 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 11:42:45.908 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 11:42:50.027 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 11:43:02.743 - [DB]  Conectando com o banco [cldsn00353d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 11:43:04.693 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12541: TNS: não há listener ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12541: TNS: não há listener ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.102.32.146:1521
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at OracleInternal.Network.TcpTransportAdapter.ConnectIterate()
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 101
+2020-06-30 11:43:04.720 - [DB]  Query não retornou resultados
+2020-06-30 11:52:29.411 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:52:29.446 - [Specflow]  Using app.config
+2020-06-30 11:52:29.672 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:52:29.696 - [SeleniumUtils]   CHROME
+2020-06-30 11:52:30.163 - [SeleniumUtils]  Finalizando processo [5152] pai...
+2020-06-30 11:52:30.166 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:52:30.167 - [SeleniumUtils]  OK
+2020-06-30 11:52:30.183 - [VARDB]  Initializing database...
+2020-06-30 11:52:30.186 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:52:30.189 - [VARDB]     persistDays ==== 7
+2020-06-30 11:52:30.509 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:52:30.512 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:52:30.611 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:52:30.649 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:52:35.075 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 11:52:35.076 - [BeforeScenario]  OK!
+2020-06-30 11:52:35.086 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 11:52:37.584 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 11:52:41.282 - [SeleniumBase]  Página carregada!
+2020-06-30 11:52:51.820 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 11:52:52.135 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 11:52:52.136 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 11:53:35.110 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 11:54:22.633 - [DB]  Conectando com o banco [cldsn00353d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 11:54:24.410 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12541: TNS: não há listener ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12541: TNS: não há listener ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.102.32.146:1521
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at OracleInternal.Network.TcpTransportAdapter.ConnectIterate()
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 101
+2020-06-30 11:54:24.431 - [DB]  Query não retornou resultados
+2020-06-30 11:58:58.772 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 11:58:58.794 - [Specflow]  Using app.config
+2020-06-30 11:58:59.012 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 11:58:59.039 - [SeleniumUtils]   CHROME
+2020-06-30 11:58:59.428 - [SeleniumUtils]  Finalizando processo [21888] pai...
+2020-06-30 11:58:59.432 - [SeleniumUtils]   IEXPLORE
+2020-06-30 11:58:59.432 - [SeleniumUtils]  OK
+2020-06-30 11:58:59.452 - [VARDB]  Initializing database...
+2020-06-30 11:58:59.457 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 11:58:59.460 - [VARDB]     persistDays ==== 7
+2020-06-30 11:58:59.746 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 11:58:59.748 - [VARDB]  Done! Taken 0 items
+2020-06-30 11:58:59.825 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 11:58:59.842 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 11:59:03.990 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 11:59:03.991 - [BeforeScenario]  OK!
+2020-06-30 11:59:03.997 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 11:59:06.279 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 11:59:09.519 - [SeleniumBase]  Página carregada!
+2020-06-30 11:59:19.519 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 11:59:19.842 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 11:59:19.842 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 11:59:24.772 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 11:59:36.381 - [DB]  Conectando com o banco [cldsn00353d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 11:59:38.233 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12541: TNS: não há listener ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12541: TNS: não há listener ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.102.32.146:1521
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at OracleInternal.Network.TcpTransportAdapter.ConnectIterate()
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 101
+2020-06-30 11:59:38.257 - [DB]  Query não retornou resultados
+2020-06-30 14:28:27.500 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 14:28:27.521 - [Specflow]  Using app.config
+2020-06-30 14:28:27.702 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 14:28:27.728 - [SeleniumUtils]   CHROME
+2020-06-30 14:28:28.162 - [SeleniumUtils]  Finalizando processo [19904] pai...
+2020-06-30 14:28:28.166 - [SeleniumUtils]   IEXPLORE
+2020-06-30 14:28:28.166 - [SeleniumUtils]  OK
+2020-06-30 14:28:28.182 - [VARDB]  Initializing database...
+2020-06-30 14:28:28.184 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 14:28:28.187 - [VARDB]     persistDays ==== 7
+2020-06-30 14:28:28.462 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 14:28:28.464 - [VARDB]  Done! Taken 0 items
+2020-06-30 14:28:28.499 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 14:28:28.518 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 14:28:33.852 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 14:28:33.853 - [BeforeScenario]  OK!
+2020-06-30 14:28:33.859 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 14:28:36.142 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 14:28:39.004 - [SeleniumBase]  Página carregada!
+2020-06-30 14:28:48.916 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 14:28:49.263 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:28:49.263 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 14:28:49.788 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 14:28:49.872 - [DB]  Conectando com o banco [cldsn00353d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 14:28:51.759 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12541: TNS: não há listener ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12541: TNS: não há listener ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.102.32.146:1521
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at OracleInternal.Network.TcpTransportAdapter.ConnectIterate()
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 101
+2020-06-30 14:28:51.779 - [DB]  Query não retornou resultados
+2020-06-30 14:28:51.779 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-06-30 14:28:59.127 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-06-30 14:29:03.654 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:29:03.654 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 14:29:05.840 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 14:29:08.019 - [SeleniumBase]  Página carregada!
+2020-06-30 14:29:17.677 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 14:29:17.974 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:29:17.974 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 14:29:18.665 - [Specflow]  Dado eu clicar em Column Chooser e escolher as colunas para exibição s, n, s, s, n, n, n
+2020-06-30 14:29:28.268 - [Specflow]  Então apresentará no grid as colunas selecionadas s, n, s, s, n, n, n
+2020-06-30 14:29:32.616 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:29:32.617 - [Specflow]  Dado eu fizer a ordenação no grid das colunas selecionadas 1, , 3, 2, , ,
+2020-06-30 14:29:41.568 - [Specflow]  Então as colunas do grid permanecem na ordenação escolhida pelo usuário 1, , 3, 2, , ,
+2020-06-30 14:29:45.904 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:29:45.904 - [Specflow]  Dado eu alterar a quantidade para aumentar a quantidade de registros e alterar a paginação para a visualização no grid 20, 2
+2020-06-30 14:29:54.198 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-06-30 14:30:01.411 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-06-30 14:30:05.953 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:30:05.953 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 14:30:08.134 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 14:30:10.196 - [SeleniumBase]  Página carregada!
+2020-06-30 14:30:19.870 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 14:30:20.163 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:30:20.163 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 14:30:20.617 - [Specflow]  Então a visualização da quantidade de registros e paginação do grid com as mesmas informações efetuadas pelo usuário 20, 2, 20641542, Página 2 de 3 (50 itens)
+2020-06-30 14:30:46.078 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 14:30:46.537 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-06-30 14:30:49.169 - [SeleniumUtils]  OK
+2020-06-30 14:30:49.169 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 14:30:49.189 - [SeleniumUtils]   CHROME
+2020-06-30 14:30:49.189 - [SeleniumUtils]   IEXPLORE
+2020-06-30 14:30:49.189 - [SeleniumUtils]  OK
+2020-06-30 14:30:49.198 - [VARDB]  Initializing database...
+2020-06-30 14:30:49.200 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 14:30:49.202 - [VARDB]     persistDays ==== 7
+2020-06-30 14:30:49.208 - [VARDB]  Storing all items in BDD variables database
+2020-06-30 14:30:49.211 - [VARDB]  Storing all list variables...
+2020-06-30 14:30:49.213 - [VARDB]  Done! Stored 1 items (Total string values size: 0 bytes)
+2020-06-30 15:26:49.884 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 15:26:49.910 - [Specflow]  Using app.config
+2020-06-30 15:26:50.158 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 15:26:50.184 - [SeleniumUtils]   CHROME
+2020-06-30 15:26:50.184 - [SeleniumUtils]   IEXPLORE
+2020-06-30 15:26:50.184 - [SeleniumUtils]  OK
+2020-06-30 15:26:50.203 - [VARDB]  Initializing database...
+2020-06-30 15:26:50.206 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 15:26:50.208 - [VARDB]     persistDays ==== 7
+2020-06-30 15:26:50.548 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 15:26:50.551 - [VARDB]  Done! Taken 0 items
+2020-06-30 15:26:50.651 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 15:26:50.676 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 15:26:57.652 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 15:26:57.652 - [BeforeScenario]  OK!
+2020-06-30 15:26:57.659 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 15:27:00.229 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 15:27:03.700 - [SeleniumBase]  Página carregada!
+2020-06-30 15:27:14.117 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 15:27:14.825 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 15:27:14.825 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 15:27:20.769 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 15:27:34.345 - [DB]  Conectando com o banco [cldsn00353d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 15:27:36.195 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12541: TNS: não há listener ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12541: TNS: não há listener ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.102.32.146:1521
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at OracleInternal.Network.TcpTransportAdapter.ConnectIterate()
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 101
+2020-06-30 15:27:36.227 - [DB]  Query não retornou resultados
+2020-06-30 15:31:22.963 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 15:31:22.989 - [Specflow]  Using app.config
+2020-06-30 15:31:23.209 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 15:31:23.242 - [SeleniumUtils]   CHROME
+2020-06-30 15:31:23.686 - [SeleniumUtils]  Finalizando processo [3744] pai...
+2020-06-30 15:31:23.690 - [SeleniumUtils]   IEXPLORE
+2020-06-30 15:31:23.690 - [SeleniumUtils]  OK
+2020-06-30 15:31:23.707 - [VARDB]  Initializing database...
+2020-06-30 15:31:23.710 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 15:31:23.714 - [VARDB]     persistDays ==== 7
+2020-06-30 15:31:24.045 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 15:31:24.050 - [VARDB]  Done! Taken 0 items
+2020-06-30 15:31:24.102 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 15:31:24.120 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 15:31:28.287 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 15:31:28.287 - [BeforeScenario]  OK!
+2020-06-30 15:31:28.297 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 15:31:30.636 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 15:31:33.836 - [SeleniumBase]  Página carregada!
+2020-06-30 15:31:43.956 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 15:31:44.283 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 15:31:44.284 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 15:31:50.007 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 15:32:24.203 - [DB]  Conectando com o banco [cldsn00353d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 15:32:26.074 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-12541: TNS: não há listener ---> OracleInternal.Network.NetworkException (0x80004005): ORA-12541: TNS: não há listener ---> System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 10.102.32.146:1521
+   at System.Net.Sockets.Socket.InternalEndConnect(IAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.EndConnect(IAsyncResult asyncResult)
+   at OracleInternal.Network.TcpTransportAdapter.ConnectIterate()
+   at OracleInternal.Network.OracleCommunication.DoConnect(String tnsDescriptor)
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.Connect(ConnectionString cs, Boolean bOpenEndUserSession, OracleConnection connRefForCriteria, String instanceName)
+   at OracleInternal.ConnectionPool.PoolManager`3.Get(ConnectionString csWithDiffOrNewPwd, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OraclePoolManager.Get(ConnectionString csWithNewPassword, Boolean bGetForApp, OracleConnection connRefForCriteria, String affinityInstanceName, Boolean bForceMatch)
+   at OracleInternal.ConnectionPool.OracleConnectionDispenser`3.Get(ConnectionString cs, PM conPM, ConnectionString pmCS, SecureString securedPassword, SecureString securedProxyPassword, OracleConnection connRefForCriteria)
+   at Oracle.ManagedDataAccess.Client.OracleConnection.Open()
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 101
+2020-06-30 15:32:26.098 - [DB]  Query não retornou resultados
+2020-06-30 15:50:28.905 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 15:50:28.943 - [Specflow]  Using app.config
+2020-06-30 15:50:29.213 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 15:50:29.249 - [SeleniumUtils]   CHROME
+2020-06-30 15:50:29.675 - [SeleniumUtils]  Finalizando processo [18468] pai...
+2020-06-30 15:50:29.680 - [SeleniumUtils]   IEXPLORE
+2020-06-30 15:50:29.680 - [SeleniumUtils]  OK
+2020-06-30 15:50:29.715 - [VARDB]  Initializing database...
+2020-06-30 15:50:29.717 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 15:50:29.720 - [VARDB]     persistDays ==== 7
+2020-06-30 15:50:30.048 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 15:50:30.053 - [VARDB]  Done! Taken 0 items
+2020-06-30 15:50:30.178 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 15:50:30.204 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 15:50:35.988 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 15:50:35.989 - [BeforeScenario]  OK!
+2020-06-30 15:50:35.995 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 15:50:38.518 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 15:50:41.471 - [SeleniumBase]  Página carregada!
+2020-06-30 15:50:51.420 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 15:50:51.791 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 15:50:51.791 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 15:50:57.967 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 15:51:15.361 - [DB]  Conectando com o banco [orasnc00301d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 15:51:16.556 - [DB]  Conexão OK!
+2020-06-30 15:51:16.564 - [DB]  Executando a query...
+2020-06-30 15:51:16.910 - [DB]  OK!
+2020-06-30 15:51:16.914 - [DB]  Query retornou [2] linhas e [14] colunas
+2020-06-30 15:54:29.516 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 15:54:29.549 - [Specflow]  Using app.config
+2020-06-30 15:54:29.773 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 15:54:29.801 - [SeleniumUtils]   CHROME
+2020-06-30 15:54:30.260 - [SeleniumUtils]  Finalizando processo [23364] pai...
+2020-06-30 15:54:30.264 - [SeleniumUtils]   IEXPLORE
+2020-06-30 15:54:30.264 - [SeleniumUtils]  OK
+2020-06-30 15:54:30.283 - [VARDB]  Initializing database...
+2020-06-30 15:54:30.287 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 15:54:30.291 - [VARDB]     persistDays ==== 7
+2020-06-30 15:54:30.587 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 15:54:30.589 - [VARDB]  Done! Taken 0 items
+2020-06-30 15:54:30.631 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 15:54:30.661 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 15:54:37.242 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 15:54:37.242 - [BeforeScenario]  OK!
+2020-06-30 15:54:37.250 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 15:54:38.617 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 15:54:42.046 - [SeleniumBase]  Página carregada!
+2020-06-30 15:54:52.036 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 15:54:52.407 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 15:54:52.407 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 15:55:09.574 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 15:55:20.534 - [DB]  Conectando com o banco [orasnc00301d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 15:55:22.047 - [DB]  Conexão OK!
+2020-06-30 15:55:22.049 - [DB]  Executando a query...
+2020-06-30 15:55:22.294 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06550: linha 1, coluna 53:
+PLS-00103: Encountered the symbol "(" when expecting one of the following:
+
+   constante exception <um identificador>
+   <um identificador delimitado por aspas duplas> tabela longo
+   duplo ref char tempo timestamp interval data binário national
+   caractere nchar
+The symbol "<um identificador>" was substituted for "(" to continue.
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 111
+2020-06-30 15:55:22.354 - [DB]  Query não retornou resultados
+2020-06-30 15:56:31.586 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 15:56:31.611 - [Specflow]  Using app.config
+2020-06-30 15:56:31.838 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 15:56:31.877 - [SeleniumUtils]   CHROME
+2020-06-30 15:56:32.315 - [SeleniumUtils]  Finalizando processo [8132] pai...
+2020-06-30 15:56:32.319 - [SeleniumUtils]   IEXPLORE
+2020-06-30 15:56:32.319 - [SeleniumUtils]  OK
+2020-06-30 15:56:32.339 - [VARDB]  Initializing database...
+2020-06-30 15:56:32.342 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 15:56:32.345 - [VARDB]     persistDays ==== 7
+2020-06-30 15:56:32.663 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 15:56:32.666 - [VARDB]  Done! Taken 0 items
+2020-06-30 15:56:32.754 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 15:56:32.773 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 15:56:37.013 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 15:56:37.013 - [BeforeScenario]  OK!
+2020-06-30 15:56:37.019 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 15:56:39.397 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 15:56:42.431 - [SeleniumBase]  Página carregada!
+2020-06-30 15:56:52.388 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 15:56:52.723 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 15:56:52.723 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 15:56:58.032 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 15:57:09.899 - [DB]  Conectando com o banco [orasnc00301d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 15:57:11.402 - [DB]  Conexão OK!
+2020-06-30 15:57:11.405 - [DB]  Executando a query...
+2020-06-30 15:57:11.567 - [DB]  ERROR: Erro ao executar a query!
+Oracle.ManagedDataAccess.Client.OracleException (0x80004005): ORA-06550: linha 1, coluna 53:
+PLS-00103: Encountered the symbol "(" when expecting one of the following:
+
+   constante exception <um identificador>
+   <um identificador delimitado por aspas duplas> tabela longo
+   duplo ref char tempo timestamp interval data binário national
+   caractere nchar
+The symbol "<um identificador>" was substituted for "(" to continue.
+   at OracleInternal.ServiceObjects.OracleConnectionImpl.VerifyExecution(Int32& cursorId, Boolean bThrowArrayBindRelatedErrors, SqlStatementType sqlStatementType, Int32 arrayBindCount, OracleException& exceptionForArrayBindDML, Boolean& hasMoreRowsInDB, Boolean bFirstIterationDone)
+   at OracleInternal.ServiceObjects.OracleCommandImpl.ExecuteReader(String commandText, OracleParameterCollection paramColl, CommandType commandType, OracleConnectionImpl connectionImpl, OracleDataReaderImpl& rdrImpl, Int32 longFetchSize, Int64 clientInitialLOBFS, OracleDependencyImpl orclDependencyImpl, Int64[] scnForExecution, Int64[]& scnFromExecution, OracleParameterCollection& bindByPositionParamColl, Boolean& bBindParamPresent, Int64& internalInitialLOBFS, OracleException& exceptionForArrayBindDML, OracleConnection connection, OracleLogicalTransaction& oracleLogicalTransaction, IEnumerable`1 adrianParsedStmt, Boolean isDescribeOnly, Boolean isFromEF)
+   at Oracle.ManagedDataAccess.Client.OracleCommand.ExecuteReader(Boolean requery, Boolean fillRequest, CommandBehavior behavior)
+   at Oracle.ManagedDataAccess.Client.OracleDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at DBHelper.DBBase.ExecuteQuery(String query, String ipOrHost, String port, String serviceName, String dbUser, String dbPass, DataTable& results) in D:\3\3\SIN-QAHELCI-JOB1\code\DBHelper\DBHelper\DBBase.cs:line 111
+2020-06-30 15:57:11.621 - [DB]  Query não retornou resultados
+2020-06-30 16:00:35.322 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 16:00:35.364 - [Specflow]  Using app.config
+2020-06-30 16:00:35.635 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 16:00:35.668 - [SeleniumUtils]   CHROME
+2020-06-30 16:00:36.290 - [SeleniumUtils]  Finalizando processo [10588] pai...
+2020-06-30 16:00:36.295 - [SeleniumUtils]   IEXPLORE
+2020-06-30 16:00:36.295 - [SeleniumUtils]  OK
+2020-06-30 16:00:36.362 - [VARDB]  Initializing database...
+2020-06-30 16:00:36.366 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 16:00:36.369 - [VARDB]     persistDays ==== 7
+2020-06-30 16:00:36.741 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 16:00:36.748 - [VARDB]  Done! Taken 0 items
+2020-06-30 16:00:36.848 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 16:00:36.914 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 16:00:44.150 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 16:00:44.151 - [BeforeScenario]  OK!
+2020-06-30 16:00:44.162 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 16:00:46.517 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 16:00:50.822 - [SeleniumBase]  Página carregada!
+2020-06-30 16:01:01.286 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 16:01:01.651 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 16:01:01.651 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 16:01:13.094 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 16:01:25.028 - [DB]  Conectando com o banco [orasnc00301d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 16:01:27.159 - [DB]  Conexão OK!
+2020-06-30 16:01:27.162 - [DB]  Executando a query...
+2020-06-30 16:01:27.515 - [DB]  OK!
+2020-06-30 16:01:27.526 - [DB]  Query não retornou resultados
+2020-06-30 16:29:17.809 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 16:29:17.833 - [Specflow]  Using app.config
+2020-06-30 16:29:18.064 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 16:29:18.096 - [SeleniumUtils]   CHROME
+2020-06-30 16:29:18.653 - [SeleniumUtils]  Finalizando processo [12796] pai...
+2020-06-30 16:29:18.659 - [SeleniumUtils]   IEXPLORE
+2020-06-30 16:29:18.659 - [SeleniumUtils]  OK
+2020-06-30 16:29:18.695 - [VARDB]  Initializing database...
+2020-06-30 16:29:18.700 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 16:29:18.705 - [VARDB]     persistDays ==== 7
+2020-06-30 16:29:19.112 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 16:29:19.115 - [VARDB]  Done! Taken 0 items
+2020-06-30 16:29:19.177 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 16:29:19.198 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 16:29:27.244 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 16:29:27.244 - [BeforeScenario]  OK!
+2020-06-30 16:29:27.254 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 16:29:29.700 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 16:29:33.237 - [SeleniumBase]  Página carregada!
+2020-06-30 16:29:43.348 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 16:29:43.674 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 16:29:43.674 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 16:29:54.584 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 16:30:11.874 - [DB]  Conectando com o banco [orasnc00301d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-06-30 16:30:13.358 - [DB]  Conexão OK!
+2020-06-30 16:30:13.361 - [DB]  Executando a query...
+2020-06-30 16:30:13.594 - [DB]  OK!
+2020-06-30 16:30:13.608 - [DB]  Query não retornou resultados
+2020-06-30 17:10:49.214 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 17:10:49.238 - [Specflow]  Using app.config
+2020-06-30 17:10:49.501 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 17:10:49.529 - [SeleniumUtils]   CHROME
+2020-06-30 17:10:49.972 - [SeleniumUtils]  Finalizando processo [9260] pai...
+2020-06-30 17:10:49.976 - [SeleniumUtils]   IEXPLORE
+2020-06-30 17:10:49.976 - [SeleniumUtils]  OK
+2020-06-30 17:10:49.996 - [VARDB]  Initializing database...
+2020-06-30 17:10:49.999 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 17:10:50.001 - [VARDB]     persistDays ==== 7
+2020-06-30 17:10:50.340 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 17:10:50.344 - [VARDB]  Done! Taken 0 items
+2020-06-30 17:10:50.386 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 17:10:50.404 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 17:10:54.628 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 17:10:54.628 - [BeforeScenario]  OK!
+2020-06-30 17:10:54.635 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 17:10:56.914 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 17:13:38.440 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 17:13:38.510 - [Specflow]  Using app.config
+2020-06-30 17:13:38.703 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 17:13:38.729 - [SeleniumUtils]   CHROME
+2020-06-30 17:13:39.121 - [SeleniumUtils]  Finalizando processo [28784] pai...
+2020-06-30 17:13:39.125 - [SeleniumUtils]   IEXPLORE
+2020-06-30 17:13:39.125 - [SeleniumUtils]  OK
+2020-06-30 17:13:39.143 - [VARDB]  Initializing database...
+2020-06-30 17:13:39.146 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 17:13:39.151 - [VARDB]     persistDays ==== 7
+2020-06-30 17:13:39.445 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 17:13:39.448 - [VARDB]  Done! Taken 0 items
+2020-06-30 17:13:39.517 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 17:13:39.546 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 17:13:43.397 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 17:13:43.397 - [BeforeScenario]  OK!
+2020-06-30 17:13:43.403 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 17:13:45.696 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 17:13:48.525 - [SeleniumBase]  Página carregada!
+2020-06-30 17:13:58.622 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 17:13:58.950 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 17:13:58.950 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 17:14:04.165 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 17:24:10.019 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-06-30 17:24:10.044 - [Specflow]  Using app.config
+2020-06-30 17:24:10.386 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-06-30 17:24:10.414 - [SeleniumUtils]   CHROME
+2020-06-30 17:24:10.858 - [SeleniumUtils]  Finalizando processo [30480] pai...
+2020-06-30 17:24:10.861 - [SeleniumUtils]   IEXPLORE
+2020-06-30 17:24:10.861 - [SeleniumUtils]  OK
+2020-06-30 17:24:10.892 - [VARDB]  Initializing database...
+2020-06-30 17:24:10.894 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-06-30 17:24:10.934 - [VARDB]     persistDays ==== 7
+2020-06-30 17:24:11.643 - [VARDB]  Getting all items in BDD variables database
+2020-06-30 17:24:11.646 - [VARDB]  Done! Taken 0 items
+2020-06-30 17:24:11.720 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-06-30 17:24:11.736 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-06-30 17:24:16.018 - [SeleniumBase]  WebDriver inicializado!
+2020-06-30 17:24:16.018 - [BeforeScenario]  OK!
+2020-06-30 17:24:16.026 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-06-30 17:24:18.322 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-06-30 17:24:21.723 - [SeleniumBase]  Página carregada!
+2020-06-30 17:24:32.071 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-06-30 17:24:32.369 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-06-30 17:24:32.369 - [Specflow]  Dado eu estou na tela de notificações
+2020-06-30 17:26:28.984 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-06-30 17:26:39.878 - [Specflow]  error: O arquivo de configuração [C:\DSEPROJ\GIT\qa_features\code\Features.WEB.FAT\Features.WEB.FAT\env.conf] não foi encontrado
+2020-06-30 17:26:45.070 - [Specflow]     at ConfigHelper.ConfigBase.LoadConfigFile(String file) in D:\3\3\SIN-QAHELCI-JOB1\code\ConfigHelper\ConfigHelper\ConfigBase.cs:line 49
+   at Steps.WEB.Infra.Preferencia.PreferenciaPage.adicionarnotificacoes(String _totalNotificacoes, String _companyID) in C:\DSEPROJ\GIT\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Preferencia\PreferenciaPage.cs:line 573
+   at Steps.WEB.Infra.Preferencia.PreferenciaStep.DadoEuAdicioneNotificacoesComCodigoDaCorretora(String _totalNotificacoes, String _companyID) in C:\DSEPROJ\GIT\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Preferencia\PreferenciaStep.cs:line 103
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-06-30 17:26:45.654 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----

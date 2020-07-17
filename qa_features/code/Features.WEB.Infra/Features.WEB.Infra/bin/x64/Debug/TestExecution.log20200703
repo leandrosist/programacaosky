@@ -1,0 +1,193 @@
+2020-07-03 10:47:01.076 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-03 10:47:01.098 - [Specflow]  Using app.config
+2020-07-03 10:47:01.309 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-03 10:47:01.337 - [SeleniumUtils]   CHROME
+2020-07-03 10:47:01.337 - [SeleniumUtils]   IEXPLORE
+2020-07-03 10:47:01.337 - [SeleniumUtils]  OK
+2020-07-03 10:47:01.353 - [VARDB]  Initializing database...
+2020-07-03 10:47:01.356 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-03 10:47:01.358 - [VARDB]     persistDays ==== 7
+2020-07-03 10:47:01.676 - [VARDB]  Getting all items in BDD variables database
+2020-07-03 10:47:01.679 - [VARDB]  Done! Taken 0 items
+2020-07-03 10:47:01.771 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-03 10:47:01.830 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-03 10:47:07.477 - [SeleniumBase]  WebDriver inicializado!
+2020-07-03 10:47:07.477 - [BeforeScenario]  OK!
+2020-07-03 10:47:07.484 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:47:09.798 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:47:13.194 - [SeleniumBase]  Página carregada!
+2020-07-03 10:47:23.261 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:47:23.582 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:47:23.582 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:47:24.305 - [Specflow]  Dado eu clicar em Column Chooser e escolher as colunas para exibição s, n, s, s, n, n, n
+2020-07-03 10:47:33.849 - [Specflow]  Então apresentará no grid as colunas selecionadas s, n, s, s, n, n, n
+2020-07-03 10:47:38.225 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:47:38.226 - [Specflow]  Dado eu fizer a ordenação no grid das colunas selecionadas 1, , 3, 2, , ,
+2020-07-03 10:47:47.066 - [Specflow]  Então as colunas do grid permanecem na ordenação escolhida pelo usuário 1, , 3, 2, , ,
+2020-07-03 10:47:51.486 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:47:51.486 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-07-03 10:47:58.942 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-07-03 10:48:03.453 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:48:03.453 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:48:05.676 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:48:08.899 - [SeleniumBase]  Página carregada!
+2020-07-03 10:48:18.706 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:48:19.049 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:48:19.049 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:48:19.702 - [Specflow]  Então a visualização do grid deve apresentar as mesmas colunas selecionadas e a ordenação escolhida pelo usuario s, n, s, s, n, n, n, 1, , 3, 2, , ,
+2020-07-03 10:48:32.826 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:48:33.125 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-03 10:48:35.407 - [SeleniumUtils]  OK
+2020-07-03 10:48:35.407 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-03 10:48:35.421 - [SeleniumUtils]   CHROME
+2020-07-03 10:48:35.421 - [SeleniumUtils]   IEXPLORE
+2020-07-03 10:48:35.421 - [SeleniumUtils]  OK
+2020-07-03 10:48:35.429 - [VARDB]  Initializing database...
+2020-07-03 10:48:35.431 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-03 10:48:35.434 - [VARDB]     persistDays ==== 7
+2020-07-03 10:48:35.439 - [VARDB]  Storing all items in BDD variables database
+2020-07-03 10:48:35.441 - [VARDB]  Storing all list variables...
+2020-07-03 10:48:35.444 - [VARDB]  Done! Stored 1 items (Total string values size: 0 bytes)
+2020-07-03 10:49:17.536 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-03 10:49:17.557 - [Specflow]  Using app.config
+2020-07-03 10:49:17.796 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-03 10:49:17.827 - [SeleniumUtils]   CHROME
+2020-07-03 10:49:17.827 - [SeleniumUtils]   IEXPLORE
+2020-07-03 10:49:17.827 - [SeleniumUtils]  OK
+2020-07-03 10:49:17.847 - [VARDB]  Initializing database...
+2020-07-03 10:49:17.849 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-03 10:49:17.854 - [VARDB]     persistDays ==== 7
+2020-07-03 10:49:18.162 - [VARDB]  Getting all items in BDD variables database
+2020-07-03 10:49:18.165 - [VARDB]  Done! Taken 0 items
+2020-07-03 10:49:18.206 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-03 10:49:18.222 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-03 10:49:22.581 - [SeleniumBase]  WebDriver inicializado!
+2020-07-03 10:49:22.581 - [BeforeScenario]  OK!
+2020-07-03 10:49:22.588 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:49:24.865 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:49:28.222 - [SeleniumBase]  Página carregada!
+2020-07-03 10:49:38.234 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:49:38.534 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:49:38.534 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:49:39.087 - [Specflow]  Dado eu adicione "50" notificações com código da corretora "261"
+2020-07-03 10:49:39.163 - [DB]  Conectando com o banco [orasnc00301d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-07-03 10:49:40.373 - [DB]  Conexão OK!
+2020-07-03 10:49:40.375 - [DB]  Executando a query...
+2020-07-03 10:49:40.553 - [DB]  OK!
+2020-07-03 10:49:40.556 - [DB]  Query não retornou resultados
+2020-07-03 10:49:40.557 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-07-03 10:49:47.912 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-07-03 10:49:52.450 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:49:52.450 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:49:54.644 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:49:56.716 - [SeleniumBase]  Página carregada!
+2020-07-03 10:50:06.430 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:50:06.789 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:50:06.789 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:50:07.775 - [Specflow]  Dado eu clicar em Column Chooser e escolher as colunas para exibição s, n, s, s, n, n, n
+2020-07-03 10:50:17.520 - [Specflow]  Então apresentará no grid as colunas selecionadas s, n, s, s, n, n, n
+2020-07-03 10:50:21.917 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:50:21.917 - [Specflow]  Dado eu fizer a ordenação no grid das colunas selecionadas 1, , 3, 2, , ,
+2020-07-03 10:50:30.875 - [Specflow]  Então as colunas do grid permanecem na ordenação escolhida pelo usuário 1, , 3, 2, , ,
+2020-07-03 10:50:35.237 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:50:35.237 - [Specflow]  Dado eu alterar a quantidade para aumentar a quantidade de registros e alterar a paginação para a visualização no grid 20, 2
+2020-07-03 10:50:43.639 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-07-03 10:50:51.107 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-07-03 10:50:55.615 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:50:55.616 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:50:57.828 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:50:59.489 - [SeleniumBase]  Página carregada!
+2020-07-03 10:51:09.227 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:51:09.502 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:51:09.502 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:51:10.104 - [Specflow]  Então a visualização da quantidade de registros e paginação do grid com as mesmas informações efetuadas pelo usuário 20, 2, 20641542, Página 2 de 3 (50 itens)
+2020-07-03 10:51:35.730 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:51:35.730 - [Specflow]  Dado eu irei deletar os registros notificações
+2020-07-03 10:51:35.734 - [DB]  Conectando com o banco [orasnc00301d.internalenv.corp], porta [1521], serviceName [SINAINFRA] com usuário [CORR26A]...
+2020-07-03 10:51:35.751 - [DB]  Conexão OK!
+2020-07-03 10:51:35.753 - [DB]  Executando a query...
+2020-07-03 10:51:35.791 - [DB]  OK!
+2020-07-03 10:51:35.794 - [DB]  Query não retornou resultados
+2020-07-03 10:51:36.255 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-03 10:51:38.966 - [SeleniumUtils]  OK
+2020-07-03 10:51:38.966 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-03 10:51:38.976 - [SeleniumUtils]   CHROME
+2020-07-03 10:51:38.976 - [SeleniumUtils]   IEXPLORE
+2020-07-03 10:51:38.976 - [SeleniumUtils]  OK
+2020-07-03 10:51:38.989 - [VARDB]  Initializing database...
+2020-07-03 10:51:38.991 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-03 10:51:38.993 - [VARDB]     persistDays ==== 7
+2020-07-03 10:51:38.999 - [VARDB]  Storing all items in BDD variables database
+2020-07-03 10:51:39.001 - [VARDB]  Storing all list variables...
+2020-07-03 10:51:39.003 - [VARDB]  Done! Stored 1 items (Total string values size: 0 bytes)
+2020-07-03 10:52:17.316 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-03 10:52:17.335 - [Specflow]  Using app.config
+2020-07-03 10:52:17.522 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-03 10:52:17.548 - [SeleniumUtils]   CHROME
+2020-07-03 10:52:17.548 - [SeleniumUtils]   IEXPLORE
+2020-07-03 10:52:17.548 - [SeleniumUtils]  OK
+2020-07-03 10:52:17.564 - [VARDB]  Initializing database...
+2020-07-03 10:52:17.567 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-03 10:52:17.570 - [VARDB]     persistDays ==== 7
+2020-07-03 10:52:17.867 - [VARDB]  Getting all items in BDD variables database
+2020-07-03 10:52:17.871 - [VARDB]  Done! Taken 0 items
+2020-07-03 10:52:17.914 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-03 10:52:17.926 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-03 10:52:22.927 - [SeleniumBase]  WebDriver inicializado!
+2020-07-03 10:52:22.928 - [BeforeScenario]  OK!
+2020-07-03 10:52:22.934 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:52:25.224 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:52:28.414 - [SeleniumBase]  Página carregada!
+2020-07-03 10:52:38.327 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:52:38.631 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:52:38.631 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:52:39.285 - [Specflow]  Dado eu clicar em Column Chooser e escolher as colunas para exibição s, n, s, s, n, n, n
+2020-07-03 10:52:48.809 - [Specflow]  Então apresentará no grid as colunas selecionadas s, n, s, s, n, n, n
+2020-07-03 10:52:53.220 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:52:53.220 - [Specflow]  Dado eu fizer a ordenação no grid das colunas selecionadas 1, , 3, 2, , ,
+2020-07-03 10:53:02.044 - [Specflow]  Então as colunas do grid permanecem na ordenação escolhida pelo usuário 1, , 3, 2, , ,
+2020-07-03 10:53:06.416 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:53:06.416 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-07-03 10:53:13.964 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-07-03 10:53:18.537 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:53:18.538 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:53:20.749 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:53:24.668 - [SeleniumBase]  Página carregada!
+2020-07-03 10:53:35.180 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:53:35.465 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:53:35.465 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:53:36.092 - [Specflow]  Então validar as preferências do usuário adm de colunas e ordenação no grid s, n, s, s, n, n, n, 1, , 3, 2, , ,
+2020-07-03 10:53:40.469 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:53:40.469 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-07-03 10:53:47.762 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-07-03 10:53:52.258 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:53:52.259 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "qaautomacao", senha "12345678" e empresa "CORRETORA26A"
+2020-07-03 10:53:54.388 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:53:56.319 - [SeleniumBase]  Página carregada!
+2020-07-03 10:54:06.398 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:54:06.685 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:54:06.685 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:54:07.403 - [Specflow]  Então a visualização do grid deve apresentar diferentes preferencias das colunas selecionadas e a ordenação escolhida pelo usuario adm em relação ao usuário qaautomacao s, n, s, s, n, n, n, 1, , 3, 2, , ,
+2020-07-03 10:54:11.738 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:54:11.738 - [Specflow]  Dado eu irei fazer logoff no Sinacor Web
+2020-07-03 10:54:18.950 - [Specflow]  Então deverá efetuar logoff e voltar para a página de login do Sinacor Web
+2020-07-03 10:54:23.519 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:54:23.519 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-03 10:54:25.731 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-03 10:54:27.336 - [SeleniumBase]  Página carregada!
+2020-07-03 10:54:37.416 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-03 10:54:37.700 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-03 10:54:37.700 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-03 10:54:38.275 - [Specflow]  Dado retornar preferencias usuario adm
+2020-07-03 10:54:47.646 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-03 10:54:50.267 - [SeleniumUtils]  OK
+2020-07-03 10:54:50.267 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-03 10:54:50.277 - [SeleniumUtils]   CHROME
+2020-07-03 10:54:50.277 - [SeleniumUtils]   IEXPLORE
+2020-07-03 10:54:50.277 - [SeleniumUtils]  OK
+2020-07-03 10:54:50.285 - [VARDB]  Initializing database...
+2020-07-03 10:54:50.288 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-03 10:54:50.290 - [VARDB]     persistDays ==== 7
+2020-07-03 10:54:50.299 - [VARDB]  Storing all items in BDD variables database
+2020-07-03 10:54:50.302 - [VARDB]  Storing all list variables...
+2020-07-03 10:54:50.304 - [VARDB]  Done! Stored 1 items (Total string values size: 0 bytes)

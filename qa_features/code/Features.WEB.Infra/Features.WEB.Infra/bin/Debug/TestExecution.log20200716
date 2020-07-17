@@ -1,0 +1,302 @@
+2020-07-16 17:23:06.887 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-16 17:23:06.945 - [Specflow]  Using app.config
+2020-07-16 17:23:07.462 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:23:07.491 - [SeleniumUtils]   CHROME
+2020-07-16 17:23:07.899 - [SeleniumUtils]  Finalizando processo [15424] pai...
+2020-07-16 17:23:07.902 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:23:07.902 - [SeleniumUtils]  OK
+2020-07-16 17:23:07.993 - [VARDB]  Initializing database...
+2020-07-16 17:23:07.996 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:23:07.998 - [VARDB]     persistDays ==== 7
+2020-07-16 17:23:08.246 - [VARDB]  Database has [1] items
+2020-07-16 17:23:08.248 - [VARDB]  Getting all items in BDD variables database
+2020-07-16 17:23:08.250 - [VARDB]  Done! Taken 1 items
+2020-07-16 17:23:08.320 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-16 17:23:08.390 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-16 17:23:14.730 - [SeleniumBase]  WebDriver inicializado!
+2020-07-16 17:23:14.731 - [BeforeScenario]  OK!
+2020-07-16 17:23:14.735 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-16 17:23:16.388 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-16 17:23:24.495 - [SeleniumBase]  Página carregada!
+2020-07-16 17:23:30.632 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-16 17:23:34.282 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:23:34.282 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-16 17:23:36.976 - [Specflow]  error: Exception has been thrown by the target of an invocation.
+2020-07-16 17:23:37.010 - [Specflow]     at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at OpenQA.Selenium.Support.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at SeleniumHelper.SeleniumBase.Click(IWebElement element) in D:\3\3\SIN-QAHELCI-JOB1\code\SeleniumHelper\SeleniumHelper\SeleniumBase.cs:line 349
+   at Steps.WEB.Infra.Programacao.ProgramacaoPage.clicarprogramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoPage.cs:line 74
+   at Steps.WEB.Infra.Programacao.ProgramacaoStep.DadoEuClicoNoLinkProgramacaoEClicoNaProgramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoStep.cs:line 31
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-07-16 17:23:37.646 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:23:37.646 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-16 17:23:37.647 - [Specflow]  skipped because of previous errors
+2020-07-16 17:23:38.377 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-16 17:23:41.054 - [SeleniumUtils]  OK
+2020-07-16 17:23:41.054 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:23:41.064 - [SeleniumUtils]   CHROME
+2020-07-16 17:23:41.065 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:23:41.065 - [SeleniumUtils]  OK
+2020-07-16 17:23:41.071 - [VARDB]  Initializing database...
+2020-07-16 17:23:41.073 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:23:41.075 - [VARDB]     persistDays ==== 7
+2020-07-16 17:23:41.084 - [VARDB]  Database has [1] items
+2020-07-16 17:23:41.086 - [VARDB]  Storing all items in BDD variables database
+2020-07-16 17:23:41.088 - [VARDB]  Storing all string variables...
+2020-07-16 17:23:41.172 - [VARDB]  Storing all list variables...
+2020-07-16 17:23:41.174 - [VARDB]  Done! Stored 2 items (Total string values size: 6 bytes)
+2020-07-16 17:24:16.566 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-16 17:24:16.588 - [Specflow]  Using app.config
+2020-07-16 17:24:16.768 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:24:16.796 - [SeleniumUtils]   CHROME
+2020-07-16 17:24:16.796 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:24:16.796 - [SeleniumUtils]  OK
+2020-07-16 17:24:16.814 - [VARDB]  Initializing database...
+2020-07-16 17:24:16.817 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:24:16.819 - [VARDB]     persistDays ==== 7
+2020-07-16 17:24:17.079 - [VARDB]  Database has [1] items
+2020-07-16 17:24:17.083 - [VARDB]  Getting all items in BDD variables database
+2020-07-16 17:24:17.087 - [VARDB]  Done! Taken 1 items
+2020-07-16 17:24:17.130 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-16 17:24:17.160 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-16 17:24:21.015 - [SeleniumBase]  WebDriver inicializado!
+2020-07-16 17:24:21.015 - [BeforeScenario]  OK!
+2020-07-16 17:24:25.846 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-16 17:24:38.162 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-16 17:24:45.521 - [SeleniumBase]  Página carregada!
+2020-07-16 17:24:55.862 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-16 17:24:59.543 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:24:59.543 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-16 17:28:23.213 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-16 17:28:23.228 - [Specflow]  Using app.config
+2020-07-16 17:28:23.415 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:28:23.444 - [SeleniumUtils]   CHROME
+2020-07-16 17:28:23.821 - [SeleniumUtils]  Finalizando processo [9132] pai...
+2020-07-16 17:28:23.823 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:28:23.823 - [SeleniumUtils]  OK
+2020-07-16 17:28:23.835 - [VARDB]  Initializing database...
+2020-07-16 17:28:23.842 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:28:23.844 - [VARDB]     persistDays ==== 7
+2020-07-16 17:28:24.100 - [VARDB]  Database has [1] items
+2020-07-16 17:28:24.103 - [VARDB]  Getting all items in BDD variables database
+2020-07-16 17:28:24.106 - [VARDB]  Done! Taken 1 items
+2020-07-16 17:28:24.152 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-16 17:28:24.163 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-16 17:28:28.509 - [SeleniumBase]  WebDriver inicializado!
+2020-07-16 17:28:28.510 - [BeforeScenario]  OK!
+2020-07-16 17:28:28.514 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-16 17:28:30.060 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-16 17:28:37.571 - [SeleniumBase]  Página carregada!
+2020-07-16 17:28:43.884 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-16 17:28:47.835 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:28:47.836 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-16 17:29:27.712 - [Specflow]  error: O elemento é nulo
+2020-07-16 17:29:27.782 - [Specflow]     at SeleniumHelper.SeleniumBase.Click(IWebElement element) in D:\3\3\SIN-QAHELCI-JOB1\code\SeleniumHelper\SeleniumHelper\SeleniumBase.cs:line 351
+   at Steps.WEB.Infra.Programacao.ProgramacaoPage.clicarprogramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoPage.cs:line 80
+   at Steps.WEB.Infra.Programacao.ProgramacaoStep.DadoEuClicoNoLinkProgramacaoEClicoNaProgramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoStep.cs:line 31
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-07-16 17:29:28.199 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:29:28.199 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-16 17:29:28.199 - [Specflow]  skipped because of previous errors
+2020-07-16 17:29:29.126 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-16 17:29:31.831 - [SeleniumUtils]  OK
+2020-07-16 17:29:31.832 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:29:31.845 - [SeleniumUtils]   CHROME
+2020-07-16 17:29:31.845 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:29:31.845 - [SeleniumUtils]  OK
+2020-07-16 17:29:31.851 - [VARDB]  Initializing database...
+2020-07-16 17:29:31.853 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:29:31.855 - [VARDB]     persistDays ==== 7
+2020-07-16 17:29:31.861 - [VARDB]  Database has [1] items
+2020-07-16 17:29:31.863 - [VARDB]  Storing all items in BDD variables database
+2020-07-16 17:29:31.865 - [VARDB]  Storing all string variables...
+2020-07-16 17:29:31.947 - [VARDB]  Storing all list variables...
+2020-07-16 17:29:31.950 - [VARDB]  Done! Stored 2 items (Total string values size: 6 bytes)
+2020-07-16 17:33:36.335 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-16 17:33:36.348 - [Specflow]  Using app.config
+2020-07-16 17:33:36.534 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:33:36.562 - [SeleniumUtils]   CHROME
+2020-07-16 17:33:36.562 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:33:36.562 - [SeleniumUtils]  OK
+2020-07-16 17:33:36.573 - [VARDB]  Initializing database...
+2020-07-16 17:33:36.576 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:33:36.578 - [VARDB]     persistDays ==== 7
+2020-07-16 17:33:36.841 - [VARDB]  Database has [1] items
+2020-07-16 17:33:36.845 - [VARDB]  Getting all items in BDD variables database
+2020-07-16 17:33:36.848 - [VARDB]  Done! Taken 1 items
+2020-07-16 17:33:36.877 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-16 17:33:36.886 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-16 17:33:41.023 - [SeleniumBase]  WebDriver inicializado!
+2020-07-16 17:33:41.024 - [BeforeScenario]  OK!
+2020-07-16 17:33:41.028 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-16 17:33:42.606 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-16 17:33:53.365 - [SeleniumBase]  Página carregada!
+2020-07-16 17:33:59.706 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-16 17:34:03.217 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:34:03.217 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-16 17:34:11.198 - [Specflow]  error: Keyword "PageDown" is not valid.
+2020-07-16 17:34:11.251 - [Specflow]     at System.Windows.Forms.SendKeys.ParseKeys(String keys, IntPtr hwnd)
+   at System.Windows.Forms.SendKeys.Send(String keys, Control control, Boolean wait)
+   at System.Windows.Forms.SendKeys.SendWait(String keys)
+   at Steps.WEB.Infra.Programacao.ProgramacaoPage.clicarprogramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoPage.cs:line 80
+   at Steps.WEB.Infra.Programacao.ProgramacaoStep.DadoEuClicoNoLinkProgramacaoEClicoNaProgramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoStep.cs:line 31
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-07-16 17:34:14.001 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:34:14.001 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-16 17:34:14.002 - [Specflow]  skipped because of previous errors
+2020-07-16 17:34:15.145 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-16 17:34:16.424 - [SeleniumUtils]  OK
+2020-07-16 17:34:16.425 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:34:16.442 - [SeleniumUtils]   CHROME
+2020-07-16 17:34:16.442 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:34:16.442 - [SeleniumUtils]  OK
+2020-07-16 17:34:16.449 - [VARDB]  Initializing database...
+2020-07-16 17:34:16.451 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:34:16.453 - [VARDB]     persistDays ==== 7
+2020-07-16 17:34:16.474 - [VARDB]  Database has [1] items
+2020-07-16 17:34:16.477 - [VARDB]  Storing all items in BDD variables database
+2020-07-16 17:34:16.479 - [VARDB]  Storing all string variables...
+2020-07-16 17:34:16.571 - [VARDB]  Storing all list variables...
+2020-07-16 17:34:16.573 - [VARDB]  Done! Stored 2 items (Total string values size: 6 bytes)
+2020-07-16 17:36:30.414 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-16 17:36:30.428 - [Specflow]  Using app.config
+2020-07-16 17:36:30.611 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:36:30.637 - [SeleniumUtils]   CHROME
+2020-07-16 17:36:30.637 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:36:30.638 - [SeleniumUtils]  OK
+2020-07-16 17:36:30.650 - [VARDB]  Initializing database...
+2020-07-16 17:36:30.652 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:36:30.654 - [VARDB]     persistDays ==== 7
+2020-07-16 17:36:30.905 - [VARDB]  Database has [1] items
+2020-07-16 17:36:30.908 - [VARDB]  Getting all items in BDD variables database
+2020-07-16 17:36:30.911 - [VARDB]  Done! Taken 1 items
+2020-07-16 17:36:30.941 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-16 17:36:30.950 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-16 17:36:35.057 - [SeleniumBase]  WebDriver inicializado!
+2020-07-16 17:36:35.057 - [BeforeScenario]  OK!
+2020-07-16 17:36:35.061 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-16 17:36:36.605 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-16 17:36:45.527 - [SeleniumBase]  Página carregada!
+2020-07-16 17:36:51.707 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-16 17:36:55.614 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:36:55.614 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-16 17:37:38.989 - [Specflow]  error: O elemento é nulo
+2020-07-16 17:37:39.039 - [Specflow]     at SeleniumHelper.SeleniumBase.Click(IWebElement element) in D:\3\3\SIN-QAHELCI-JOB1\code\SeleniumHelper\SeleniumHelper\SeleniumBase.cs:line 351
+   at Steps.WEB.Infra.Programacao.ProgramacaoPage.clicarprogramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoPage.cs:line 82
+   at Steps.WEB.Infra.Programacao.ProgramacaoStep.DadoEuClicoNoLinkProgramacaoEClicoNaProgramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoStep.cs:line 31
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-07-16 17:37:39.388 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:37:39.388 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-16 17:37:39.388 - [Specflow]  skipped because of previous errors
+2020-07-16 17:37:40.229 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-16 17:37:42.934 - [SeleniumUtils]  OK
+2020-07-16 17:37:42.934 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:37:42.944 - [SeleniumUtils]   CHROME
+2020-07-16 17:37:42.944 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:37:42.944 - [SeleniumUtils]  OK
+2020-07-16 17:37:42.950 - [VARDB]  Initializing database...
+2020-07-16 17:37:42.952 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:37:42.954 - [VARDB]     persistDays ==== 7
+2020-07-16 17:37:42.960 - [VARDB]  Database has [1] items
+2020-07-16 17:37:42.963 - [VARDB]  Storing all items in BDD variables database
+2020-07-16 17:37:42.966 - [VARDB]  Storing all string variables...
+2020-07-16 17:37:43.046 - [VARDB]  Storing all list variables...
+2020-07-16 17:37:43.051 - [VARDB]  Done! Stored 2 items (Total string values size: 6 bytes)
+2020-07-16 17:38:53.935 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-16 17:38:54.015 - [Specflow]  Using app.config
+2020-07-16 17:38:54.268 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:38:54.300 - [SeleniumUtils]   CHROME
+2020-07-16 17:38:54.300 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:38:54.300 - [SeleniumUtils]  OK
+2020-07-16 17:38:54.323 - [VARDB]  Initializing database...
+2020-07-16 17:38:54.327 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:38:54.329 - [VARDB]     persistDays ==== 7
+2020-07-16 17:38:54.653 - [VARDB]  Database has [1] items
+2020-07-16 17:38:54.659 - [VARDB]  Getting all items in BDD variables database
+2020-07-16 17:38:54.663 - [VARDB]  Done! Taken 1 items
+2020-07-16 17:38:54.725 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-16 17:38:54.742 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-16 17:38:58.537 - [SeleniumBase]  WebDriver inicializado!
+2020-07-16 17:38:58.537 - [BeforeScenario]  OK!
+2020-07-16 17:38:58.542 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-16 17:39:00.128 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-16 17:39:10.654 - [SeleniumBase]  Página carregada!
+2020-07-16 17:39:16.811 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-16 17:39:20.760 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:39:26.287 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-16 17:40:42.364 - [Specflow]  error: O elemento é nulo
+2020-07-16 17:40:48.459 - [Specflow]     at SeleniumHelper.SeleniumBase.Click(IWebElement element) in D:\3\3\SIN-QAHELCI-JOB1\code\SeleniumHelper\SeleniumHelper\SeleniumBase.cs:line 351
+   at Steps.WEB.Infra.Programacao.ProgramacaoPage.clicarprogramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoPage.cs:line 82
+   at Steps.WEB.Infra.Programacao.ProgramacaoStep.DadoEuClicoNoLinkProgramacaoEClicoNaProgramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoStep.cs:line 31
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-07-16 17:40:48.793 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:40:48.793 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-16 17:40:48.793 - [Specflow]  skipped because of previous errors
+2020-07-16 17:49:44.054 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-16 17:49:44.070 - [Specflow]  Using app.config
+2020-07-16 17:49:44.255 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:49:44.280 - [SeleniumUtils]   CHROME
+2020-07-16 17:49:44.754 - [SeleniumUtils]  Finalizando processo [8856] pai...
+2020-07-16 17:49:44.757 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:49:44.757 - [SeleniumUtils]  OK
+2020-07-16 17:49:44.777 - [VARDB]  Initializing database...
+2020-07-16 17:49:44.783 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:49:44.786 - [VARDB]     persistDays ==== 7
+2020-07-16 17:49:45.044 - [VARDB]  Database has [1] items
+2020-07-16 17:49:45.047 - [VARDB]  Getting all items in BDD variables database
+2020-07-16 17:49:45.049 - [VARDB]  Done! Taken 1 items
+2020-07-16 17:49:45.089 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-16 17:49:45.100 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-16 17:49:49.800 - [SeleniumBase]  WebDriver inicializado!
+2020-07-16 17:49:49.800 - [BeforeScenario]  OK!
+2020-07-16 17:49:49.805 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-16 17:49:51.354 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-16 17:50:01.404 - [SeleniumBase]  Página carregada!
+2020-07-16 17:50:07.542 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-16 17:50:11.430 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:50:11.431 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-16 17:50:51.947 - [Specflow]  error: O elemento é nulo
+2020-07-16 17:50:51.999 - [Specflow]     at SeleniumHelper.SeleniumBase.Click(IWebElement element) in D:\3\3\SIN-QAHELCI-JOB1\code\SeleniumHelper\SeleniumHelper\SeleniumBase.cs:line 351
+   at Steps.WEB.Infra.Programacao.ProgramacaoPage.clicarprogramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoPage.cs:line 82
+   at Steps.WEB.Infra.Programacao.ProgramacaoStep.DadoEuClicoNoLinkProgramacaoEClicoNaProgramacao() in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Programacao\ProgramacaoStep.cs:line 31
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-07-16 17:50:52.314 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-16 17:50:52.314 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-16 17:50:52.315 - [Specflow]  skipped because of previous errors
+2020-07-16 17:50:53.135 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-16 17:50:55.813 - [SeleniumUtils]  OK
+2020-07-16 17:50:55.813 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-16 17:50:55.823 - [SeleniumUtils]   CHROME
+2020-07-16 17:50:55.823 - [SeleniumUtils]   IEXPLORE
+2020-07-16 17:50:55.823 - [SeleniumUtils]  OK
+2020-07-16 17:50:55.829 - [VARDB]  Initializing database...
+2020-07-16 17:50:55.831 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-16 17:50:55.834 - [VARDB]     persistDays ==== 7
+2020-07-16 17:50:55.839 - [VARDB]  Database has [1] items
+2020-07-16 17:50:55.841 - [VARDB]  Storing all items in BDD variables database
+2020-07-16 17:50:55.843 - [VARDB]  Storing all string variables...
+2020-07-16 17:50:55.926 - [VARDB]  Storing all list variables...
+2020-07-16 17:50:55.929 - [VARDB]  Done! Stored 2 items (Total string values size: 6 bytes)

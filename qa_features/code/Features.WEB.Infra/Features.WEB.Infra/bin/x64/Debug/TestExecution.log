@@ -1,0 +1,25 @@
+2020-07-10 13:20:12.802 - [Specflow]  Loading plugin C:\DSEPROJ\GIT\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\x64\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-10 13:20:12.829 - [Specflow]  Using app.config
+2020-07-10 13:20:13.073 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-10 13:20:13.101 - [SeleniumUtils]   CHROME
+2020-07-10 13:20:13.102 - [SeleniumUtils]   IEXPLORE
+2020-07-10 13:20:13.102 - [SeleniumUtils]  OK
+2020-07-10 13:20:13.124 - [VARDB]  Initializing database...
+2020-07-10 13:20:13.127 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-10 13:20:13.129 - [VARDB]     persistDays ==== 7
+2020-07-10 13:20:13.820 - [VARDB]  Database has [1] items
+2020-07-10 13:20:13.848 - [VARDB]  Getting all items in BDD variables database
+2020-07-10 13:20:13.922 - [VARDB]  Done! Taken 1 items
+2020-07-10 13:20:14.255 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-10 13:20:14.599 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-10 13:20:25.685 - [SeleniumBase]  WebDriver inicializado!
+2020-07-10 13:20:25.686 - [BeforeScenario]  OK!
+2020-07-10 13:20:25.697 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-10 13:20:28.928 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-10 13:20:35.355 - [SeleniumBase]  Página carregada!
+2020-07-10 13:20:47.540 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-10 13:20:48.855 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-10 13:20:48.855 - [Specflow]  Dado eu estou na tela de notificações
+2020-07-10 13:20:50.224 - [Specflow]  Dado eu clicar em Column Chooser e escolher as colunas para exibição s, n, s, s, n, n, n
+2020-07-10 13:21:06.465 - [Specflow]  Então apresentará no grid as colunas selecionadas s, n, s, s, n, n, n
+2020-07-10 13:21:12.844 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----

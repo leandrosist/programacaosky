@@ -1,0 +1,132 @@
+2020-07-17 08:33:36.173 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-17 08:33:36.230 - [Specflow]  Using app.config
+2020-07-17 08:33:36.613 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-17 08:33:36.639 - [SeleniumUtils]   CHROME
+2020-07-17 08:33:36.639 - [SeleniumUtils]   IEXPLORE
+2020-07-17 08:33:36.639 - [SeleniumUtils]  OK
+2020-07-17 08:33:36.755 - [VARDB]  Initializing database...
+2020-07-17 08:33:36.758 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-17 08:33:36.760 - [VARDB]     persistDays ==== 7
+2020-07-17 08:33:37.000 - [VARDB]  Database has [1] items
+2020-07-17 08:33:37.008 - [VARDB]  Getting all items in BDD variables database
+2020-07-17 08:33:37.012 - [VARDB]  Done! Taken 1 items
+2020-07-17 08:33:37.085 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-17 08:33:37.156 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-17 08:33:44.185 - [SeleniumBase]  WebDriver inicializado!
+2020-07-17 08:33:44.185 - [BeforeScenario]  OK!
+2020-07-17 08:33:44.189 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-17 08:33:46.503 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-17 08:33:48.281 - [SeleniumBase]  Página carregada!
+2020-07-17 08:34:18.763 - [Specflow]  error: O elemento é nulo
+2020-07-17 08:34:18.823 - [Specflow]     at SeleniumHelper.SeleniumBase.SetText(IWebElement element, String text, Boolean clearCurrentText, Boolean slowType, Int32 slowTypeTimeInMili) in D:\3\3\SIN-QAHELCI-JOB1\code\SeleniumHelper\SeleniumHelper\SeleniumBase.cs:line 464
+   at Steps.WEB.Infra.LoginPage.preencherUsuario(String usuario) in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Login\LoginPage.cs:line 48
+   at Steps.WEB.Infra.LoginStep.DadoEuAcesseAPaginaEFacaLoginComOUsuarioESenha(String url, String usuario, String senha) in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Login\LoginStep.cs:line 39
+   at Steps.WEB.Infra.LoginStep.DadoEuAcesseAPaginaEFacaLoginComOUsuarioSenhaEEmpresa(String url, String usuario, String senha, String empresa) in C:\DSEPROJ\GIT2Backup\qa_steps\code\Steps.WEB.Infra\Steps.WEB.Infra\Login\LoginStep.cs:line 25
+   at lambda_method(Closure , IContextManager , String , String , String , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration) in D:\a\1\s\TechTalk.SpecFlow\Bindings\BindingInvoker.cs:line 69
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 411
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance) in D:\a\1\s\TechTalk.SpecFlow\Infrastructure\TestExecutionEngine.cs:line 316
+2020-07-17 08:34:19.125 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-17 08:34:19.125 - [Specflow]  Então o botão favorito do menu principal deve existir
+2020-07-17 08:34:19.126 - [Specflow]  skipped because of previous errors
+2020-07-17 08:34:19.162 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-17 08:34:19.162 - [SeleniumBase]  WebDriver capturado!
+2020-07-17 08:34:19.162 - [BeforeScenario]  OK!
+2020-07-17 08:34:19.162 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "usuarioIncorreto" e senha "senhaIncorreta"
+2020-07-17 08:34:19.164 - [SeleniumBase]  Navegando para a URL [http://cldsn00353d.internalenv.corp:25153//login]!
+2020-07-17 08:34:20.762 - [SeleniumBase]  Página carregada!
+2020-07-17 08:34:35.671 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-17 08:34:35.685 - [Specflow]  Using app.config
+2020-07-17 08:34:35.833 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-17 08:34:35.857 - [SeleniumUtils]   CHROME
+2020-07-17 08:34:35.857 - [SeleniumUtils]  Finalizando processo [11348] pai...
+2020-07-17 08:34:35.860 - [SeleniumUtils]   IEXPLORE
+2020-07-17 08:34:35.860 - [SeleniumUtils]  OK
+2020-07-17 08:34:35.875 - [VARDB]  Initializing database...
+2020-07-17 08:34:35.879 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-17 08:34:35.881 - [VARDB]     persistDays ==== 7
+2020-07-17 08:34:36.109 - [VARDB]  Database has [1] items
+2020-07-17 08:34:36.111 - [VARDB]  Getting all items in BDD variables database
+2020-07-17 08:34:36.114 - [VARDB]  Done! Taken 1 items
+2020-07-17 08:34:36.144 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-17 08:34:36.171 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-17 08:34:38.934 - [SeleniumBase]  WebDriver inicializado!
+2020-07-17 08:34:38.934 - [BeforeScenario]  OK!
+2020-07-17 08:34:38.943 - [Specflow]  Dado eu acesse a página "http://cldsn00353d.internalenv.corp:25153//login" e faça login com o usuário "adm", senha "sinacor" e empresa "CORRETORA26A"
+2020-07-17 08:34:56.320 - [Specflow]  Loading plugin C:\DSEPROJ\GIT2Backup\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-17 08:34:56.335 - [Specflow]  Using app.config
+2020-07-17 08:34:56.476 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-17 08:34:56.506 - [SeleniumUtils]   CHROME
+2020-07-17 08:34:56.507 - [SeleniumUtils]  Finalizando processo [18748] pai...
+2020-07-17 08:34:56.509 - [SeleniumUtils]   IEXPLORE
+2020-07-17 08:34:56.509 - [SeleniumUtils]  OK
+2020-07-17 08:34:56.524 - [VARDB]  Initializing database...
+2020-07-17 08:34:56.527 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-17 08:34:56.529 - [VARDB]     persistDays ==== 7
+2020-07-17 08:34:56.758 - [VARDB]  Database has [1] items
+2020-07-17 08:34:56.760 - [VARDB]  Getting all items in BDD variables database
+2020-07-17 08:34:56.762 - [VARDB]  Done! Taken 1 items
+2020-07-17 08:34:56.793 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-17 08:34:56.801 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-17 08:34:59.518 - [SeleniumBase]  WebDriver inicializado!
+2020-07-17 08:34:59.519 - [BeforeScenario]  OK!
+2020-07-17 08:34:59.525 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-17 08:35:01.073 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-17 08:35:06.165 - [SeleniumBase]  Página carregada!
+2020-07-17 08:35:12.293 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-17 08:35:16.219 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-17 08:35:16.219 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-17 08:35:26.738 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-17 08:35:30.205 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-17 08:35:31.002 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-17 08:35:33.557 - [SeleniumUtils]  OK
+2020-07-17 08:35:33.557 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-17 08:35:33.567 - [SeleniumUtils]   CHROME
+2020-07-17 08:35:33.567 - [SeleniumUtils]   IEXPLORE
+2020-07-17 08:35:33.567 - [SeleniumUtils]  OK
+2020-07-17 08:35:33.575 - [VARDB]  Initializing database...
+2020-07-17 08:35:33.577 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-17 08:35:33.579 - [VARDB]     persistDays ==== 7
+2020-07-17 08:35:33.584 - [VARDB]  Database has [1] items
+2020-07-17 08:35:33.587 - [VARDB]  Storing all items in BDD variables database
+2020-07-17 08:35:33.589 - [VARDB]  Storing all string variables...
+2020-07-17 08:35:33.670 - [VARDB]  Storing all list variables...
+2020-07-17 08:35:33.672 - [VARDB]  Done! Stored 2 items (Total string values size: 6 bytes)
+2020-07-17 08:54:56.424 - [Specflow]  Loading plugin C:\Users\p-leandropsantos\Downloads\Projeto\qa_features\code\Features.WEB.Infra\Features.WEB.Infra\bin\Debug\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+2020-07-17 08:54:56.477 - [Specflow]  Using app.config
+2020-07-17 08:54:56.756 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-17 08:54:56.780 - [SeleniumUtils]   CHROME
+2020-07-17 08:54:56.780 - [SeleniumUtils]   IEXPLORE
+2020-07-17 08:54:56.780 - [SeleniumUtils]  OK
+2020-07-17 08:54:56.835 - [VARDB]  Initializing database...
+2020-07-17 08:54:56.837 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-17 08:54:56.840 - [VARDB]     persistDays ==== 7
+2020-07-17 08:54:57.081 - [VARDB]  Database has [1] items
+2020-07-17 08:54:57.083 - [VARDB]  Getting all items in BDD variables database
+2020-07-17 08:54:57.085 - [VARDB]  Done! Taken 1 items
+2020-07-17 08:54:57.149 - [BeforeScenario]  Preparando o WebDriver para o browser [CHROME]...
+2020-07-17 08:54:57.159 - [SeleniumBase]  Inicializando o WebDriver baseado no navegador [CHROME]
+2020-07-17 08:55:02.178 - [SeleniumBase]  WebDriver inicializado!
+2020-07-17 08:55:02.178 - [BeforeScenario]  OK!
+2020-07-17 08:55:02.183 - [Specflow]  Dado eu acesse a página "https://www.sky.com.br/" e feche o popup
+2020-07-17 08:55:03.764 - [SeleniumBase]  Navegando para a URL [https://www.sky.com.br/]!
+2020-07-17 08:55:08.435 - [SeleniumBase]  Página carregada!
+2020-07-17 08:55:14.570 - [Specflow]  Então o logo da "SKY" deve existir
+2020-07-17 08:55:18.545 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-17 08:55:18.546 - [Specflow]  Dado eu clico no link programação e clico na programação
+2020-07-17 08:55:29.181 - [Specflow]  Então o texto e a hora que aparecem na programação devem ser os mesmos que aparecem no modal
+2020-07-17 08:55:32.619 - [SeleniumBase]  ##PRINT: ----Printscreen removida do log para não ocupar espaço. Será visivel apenas no report!----
+2020-07-17 08:55:33.502 - [SeleniumUtils]  Tentando finalizar os navegadores...
+2020-07-17 08:55:36.210 - [SeleniumUtils]  OK
+2020-07-17 08:55:36.210 - [SeleniumUtils]  Finalizando os processos remanescentes...
+2020-07-17 08:55:36.223 - [SeleniumUtils]   CHROME
+2020-07-17 08:55:36.223 - [SeleniumUtils]   IEXPLORE
+2020-07-17 08:55:36.223 - [SeleniumUtils]  OK
+2020-07-17 08:55:36.230 - [VARDB]  Initializing database...
+2020-07-17 08:55:36.233 - [VARDB]     dbFile ========= C:\temp\qa.db
+2020-07-17 08:55:36.235 - [VARDB]     persistDays ==== 7
+2020-07-17 08:55:36.240 - [VARDB]  Database has [1] items
+2020-07-17 08:55:36.243 - [VARDB]  Storing all items in BDD variables database
+2020-07-17 08:55:36.245 - [VARDB]  Storing all string variables...
+2020-07-17 08:55:36.338 - [VARDB]  Storing all list variables...
+2020-07-17 08:55:36.341 - [VARDB]  Done! Stored 2 items (Total string values size: 6 bytes)
